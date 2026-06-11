@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Miguel Ángel Barros 👋</h1>
+<h1 align="center">Hola, soy Miguel Ángel Barros</h1>
 
 <p align="center">
-  <b>Ingeniero de Software · Arquitectura, integración y desarrollo asistido por IA</b><br>
+  <b>Ingeniero de Software · Arquitectura, integración y desarrollo asistido con Agentes</b><br>
   Diseño la arquitectura, modelo los datos y orquesto la implementación — entregando sistemas de extremo a extremo.
 </p>
 
@@ -12,7 +12,7 @@
 Más que atarme a un lenguaje, trabajo desde la **arquitectura**: diseño la estructura del sistema y el modelo de datos, y dirijo el desarrollo con **flujos asistidos por IA** (roadmaps y especificaciones técnicas que valido y depuro). Eso me da flexibilidad para implementar en el stack que cada proyecto requiera — de **.NET** a **Java (Spring Boot)** — siendo siempre responsable de la integración, el despliegue y la calidad del código.
 
 - 🏗️ Arquitectura de software, modelado de datos, APIs REST y microservicios
-- 🤖 Desarrollo asistido por IA: orquestación, validación y depuración de código generado
+- 🤖 Desarrollo asistido por Agente: orquestación, validación y depuración de código generado
 - ⚙️ CI/CD con GitHub Actions · Docker · Coolify · pasarelas de pago (MercadoPago)
 - 🎓 Cursando un Máster en Inteligencia Artificial (UNIR)
 

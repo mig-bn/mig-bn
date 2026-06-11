@@ -35,9 +35,7 @@ Más que atarme a un lenguaje, trabajo desde la **arquitectura**: diseño la est
 
 ### 🚀 Proyectos destacados
 
-> Reemplaza los enlaces y descripciones por tus repos reales. Recomendado: 3-5 proyectos propios, cada uno con su README.
-
-- **[Nombre del proyecto 1](#)** — _Una línea: qué problema resuelve y con qué stack._  
+- **[[Prestamos](https://github.com/mig-bn/prestamos)](#)** — _Una línea: qué problema resuelve y con qué stack._  
   `Spring Boot · Next.js · PostgreSQL · Docker`
 - **[Nombre del proyecto 2](#)** — _Una línea: qué problema resuelve y con qué stack._  
   `.NET · Next.js · CI/CD`

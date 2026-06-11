@@ -39,6 +39,8 @@ Más que atarme a un lenguaje, trabajo desde la **arquitectura**: diseño la est
   `Spring Boot · Next.js · PostgreSQL · Docker`
 - **[Hobby connect](https://github.com/mig-bn/hobbyconnect)** _Para planear actividades grupales como partidos de futbol y demas._
   `.NET · Next.js · CI/CD`
+- **[Fashion House]([https://github.com/mig-bn/hobbyconnect](https://github.com/mig-bn/fashionhouse))** _Llevar el control de una boutique sencilla._
+  `Spring Boot · Next.js · PostgreSQL · Docker`
 - **[Inventory (Demo) ](#)** _Para llevar control sobre los activos prestados a los usuarios de una empresa Proximamente._
   `.NET · Next.js · CI/CD`
 - **Integración de modelos de IA generativa Gemini de Google con Gen AI SDK para Python** — _Una prueba de integracion para uso de con AI generativa._  

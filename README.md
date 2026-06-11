@@ -35,9 +35,9 @@ Más que atarme a un lenguaje, trabajo desde la **arquitectura**: diseño la est
 
 ### 🚀 Proyectos destacados
 
-- **[[Prestamos](https://github.com/mig-bn/prestamos)](#)** — _Llevar control de tus prestamos de dinero_
+- **[Prestamos](https://github.com/mig-bn/prestamos)](#)** — _Llevar control de tus prestamos de dinero_
   `Spring Boot · Next.js · PostgreSQL · Docker`
-- **[[Hobby connect]](https://github.com/mig-bn/hobbyconnect)(#)** _Para planear actividades grupales como partidos de futbol y demas._
+- **[Hobby connect](https://github.com/mig-bn/hobbyconnect)(#)** _Para planear actividades grupales como partidos de futbol y demas._
   `.NET · Next.js · CI/CD`
 - **[Integración de modelos de IA generativa Gemini de Google con Gen AI SDK para Python](#)** — _Una prueba de integracion para uso de con AI generativa._  
   `Python · IA / RAG`

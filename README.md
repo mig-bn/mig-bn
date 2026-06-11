@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Cómo trabajo
+### Cómo trabajo
 
 Más que atarme a un lenguaje, trabajo desde la **arquitectura**: diseño la estructura del sistema y el modelo de datos, y dirijo el desarrollo con **flujos asistidos por IA** (roadmaps y especificaciones técnicas que valido y depuro). Eso me da flexibilidad para implementar en el stack que cada proyecto requiera — de **.NET** a **Java (Spring Boot)** — siendo siempre responsable de la integración, el despliegue y la calidad del código.
 

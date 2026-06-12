@@ -14,7 +14,7 @@ Más que atarme a un lenguaje, trabajo desde la **arquitectura**: diseño la est
 - 🏗️ Arquitectura de software, modelado de datos, APIs REST y microservicios
 - 🤖 Desarrollo asistido por Agente: orquestación, validación y depuración de código generado
 - ⚙️ CI/CD con GitHub Actions · Docker · Coolify · pasarelas de pago (MercadoPago)
-- 🎓 Cursando un Máster en Inteligencia Artificial (UNIR)
+- 🎓 Máster en Inteligencia Artificial (UNIR)
 
 ---
 
